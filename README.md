@@ -132,6 +132,7 @@ ORDER BY o.descricao asc
 Após a etapa de extração, os dados foram organizados e exportados para planilhas em excel. Em seguida, as bases foram importadas para o Power BI, onde foi realizada a modelagem dos dados, normalização com power query, criação de colunas calculadas e desenvolvimento de medidas DAX para construção dos indicadores analíticos.
 
 o layout visual foi construído no Figma com o objetivo de criar uma interface mais intuitiva e executiva, segue abaixo a estrutura:
+
 ![Dashboard1E](Dashboard_Esqueleto_1.jpg)
 ![Dashboard2E](Dashboard_Esqueleto_2.jpg)
 
